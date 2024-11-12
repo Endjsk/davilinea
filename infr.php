@@ -1,0 +1,3 @@
+<?php
+$bot_Tele = '8025781339:AAH9rCJvxq3PH0DFKRVEI7sVnN4rTweOzqU';
+$chat = '-1002352595304';
